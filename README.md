@@ -7,3 +7,9 @@ Sentiment analysis remains one of the key problems that has seen extensive appli
 # Data Description
 
 For training the models, a labelled tweets dataset is provided. The dataset is provided in the form of a csv file with each line storing a tweet id, its label and the tweet. The test data file contains only tweet ids and the tweet text with each tweet in a new line.
+
+# Approach and Implementation
+
+# Data Preparation
+
+*The raw text data provided contains lots of urls,punctuations,spelling errors,whitespace characters and non alphabetical charcaters.Using regex all those Urls and other special characters are removed.Using NLTK library all those stopwords removed and using TEXTBLOB spelling errors also corrected.
