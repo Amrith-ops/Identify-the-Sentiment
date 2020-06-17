@@ -12,4 +12,4 @@ For training the models, a labelled tweets dataset is provided. The dataset is p
 
 # Data Preparation
 
-*The raw text data provided contains lots of urls,punctuations,spelling errors,whitespace characters and non alphabetical charcaters.Using regex all those Urls and other special characters are removed.Using NLTK library all those stopwords removed and using TEXTBLOB spelling errors also corrected.
+* The raw text data provided contains lots of urls,punctuations,spelling errors,whitespace characters and non alphabetical charcaters.Using regex all those Urls and other special characters are removed.Using NLTK library all those stopwords removed and using TEXTBLOB spelling errors also corrected.
